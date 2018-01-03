@@ -7,9 +7,6 @@
 	available options.
 	Example command line: PythonChessAIStats.py -w offense -b defense
 	-r 100 -s random_seeds_100.txt -o results.txt
-	
- Copyright (C) 2009 Steve Osborne, srosborne (at) gmail.com
- http://yakinikuman.wordpress.com/
  *******
  This program is free software; you can redistribute it and/or modify 
  it under the terms of the GNU General Public License as published by 

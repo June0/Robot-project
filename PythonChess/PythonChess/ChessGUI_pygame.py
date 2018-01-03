@@ -6,9 +6,6 @@
 	chess board, as well as get user input through mouse clicks.
 	The chess tile graphics were taken from Wikimedia Commons, 
 	http://commons.wikimedia.org/wiki/File:Chess_tile_pd.png
-	
- Copyright (C) 2009 Steve Osborne, srosborne (at) gmail.com
- http://yakinikuman.wordpress.com/
  """
  
 import pygame

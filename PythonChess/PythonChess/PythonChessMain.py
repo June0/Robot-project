@@ -6,9 +6,6 @@
 	Uses Tkinter to get initial game parameters.  Uses Pygame to draw the 
 	board and pieces and to get user mouse clicks.  Run with the "-h" option 
 	to get full listing of available command line flags.  
-	
- Copyright (C) 2009 Steve Osborne, srosborne (at) gmail.com
- http://yakinikuman.wordpress.com/
  *******
  This program is free software; you can redistribute it and/or modify 
  it under the terms of the GNU General Public License as published by 

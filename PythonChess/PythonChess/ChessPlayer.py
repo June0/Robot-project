@@ -3,9 +3,6 @@
  Project: Python Chess
  File name: ChessPlayer.py
  Description:  Stores info on human chess player.
-	
- Copyright (C) 2009 Steve Osborne, srosborne (at) gmail.com
- http://yakinikuman.wordpress.com/
  """
 
 class ChessPlayer:

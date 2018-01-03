@@ -3,9 +3,6 @@
  Project: Python Chess
  File name: ChessRules.py
  Description:  Functionality for determining legal chess moves.
-	
- Copyright (C) 2009 Steve Osborne, srosborne (at) gmail.com
- http://yakinikuman.wordpress.com/
  """
  
 class ChessRules:

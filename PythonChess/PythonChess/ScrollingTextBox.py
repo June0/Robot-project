@@ -4,9 +4,6 @@
  File name: ScrollingTextBox.py
  Description:  Uses pygame to draw a scrolling text box, which is 
 	incorporated in the ChessGUI_pygame class.
-
- Copyright (C) 2009 Steve Osborne, srosborne (at) gmail.com
- http://yakinikuman.wordpress.com/
  """
  
 import pygame

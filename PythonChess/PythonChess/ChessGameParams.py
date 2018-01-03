@@ -4,9 +4,6 @@
  File name: ChessGameParams.py
  Description:  Creates a Tkinter dialog window to get game
 	parameters.
-	
- Copyright (C) 2009 Steve Osborne, srosborne (at) gmail.com
- http://yakinikuman.wordpress.com/
  """
 
 from Tkinter import *

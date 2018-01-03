@@ -3,9 +3,6 @@
  Project: Python Chess
  File name: ChessAI.py
  Description:  Contains the AI classes.
-	
- Copyright (C) 2009 Steve Osborne, srosborne (at) gmail.com
- http://yakinikuman.wordpress.com/
  """
  
 from ChessRules import ChessRules

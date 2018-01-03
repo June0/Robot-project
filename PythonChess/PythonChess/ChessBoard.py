@@ -4,9 +4,6 @@
  File name: ChessBoard.py
  Description:  Board layout; contains what pieces are present
 	at each square.
-	
- Copyright (C) 2009 Steve Osborne, srosborne (at) gmail.com
- http://yakinikuman.wordpress.com/
  """
  
 import string

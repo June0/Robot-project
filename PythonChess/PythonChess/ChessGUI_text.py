@@ -4,9 +4,6 @@
  File name: ChessGUI_text.py
  Description:  Draws a text based chess board in the console window.
 	Gets user input through text entry.
-	
- Copyright (C) 2009 Steve Osborne, srosborne (at) gmail.com
- http://yakinikuman.wordpress.com/
  """
  
 from ChessRules import ChessRules
